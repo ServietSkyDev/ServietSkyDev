@@ -33,6 +33,6 @@
 
 ### Ecoute actuellement 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31kzcrbiwro5qyrua2yb6kpe3lva)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31kzcrbiwro5qyrua2yb6kpe3lva&cover_image=true&theme=novatorem&show_offline=false&background_color=1c1c1c&interchange=false&bar_color=00ddfa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
