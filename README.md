@@ -1,9 +1,5 @@
 ## Salut, Je suis SSDev</a>!
 
-<br />
-<br />
-<br />
-
 ### 📕 Projet en cours
 
 - [Sunlight Academy](https://discord.gg/jBgcHGPjwS)
@@ -33,6 +29,6 @@
 
 ### Ecoute actuellement 🎧
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31kzcrbiwro5qyrua2yb6kpe3lva&cover_image=true&theme=novatorem&show_offline=false&background_color=1c1c1c&interchange=false&bar_color=00ddfa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31kzcrbiwro5qyrua2yb6kpe3lva&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1c1c1c&interchange=false&bar_color=00ddfa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
