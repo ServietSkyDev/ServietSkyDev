@@ -4,8 +4,6 @@
 
 - [Sunlight Academy](https://discord.gg/jBgcHGPjwS)
 
-<br/>
-
 ### Languages et Outils:
 
 
